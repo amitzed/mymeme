@@ -1,3 +1,0 @@
-# myMeme
-
-Create memes...
